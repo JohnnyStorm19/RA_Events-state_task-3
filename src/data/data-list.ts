@@ -1,0 +1,1 @@
+export const listData: string[] = ['Change Password', 'Become PRO', 'Help', 'Log Out']
